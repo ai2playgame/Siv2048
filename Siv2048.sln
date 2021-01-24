@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Siv2048AnimTest", "Siv2048AnimTest\Siv2048AnimTest.vcxproj", "{9959C6B4-58C2-4418-A019-A4CE9F330B03}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Siv2048", "Siv2048\Siv2048.vcxproj", "{7C0243D1-3138-4DF9-B451-A8E6BB069514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9959C6B4-58C2-4418-A019-A4CE9F330B03}.Debug|x64.ActiveCfg = Debug|x64
+		{9959C6B4-58C2-4418-A019-A4CE9F330B03}.Debug|x64.Build.0 = Debug|x64
+		{9959C6B4-58C2-4418-A019-A4CE9F330B03}.Release|x64.ActiveCfg = Release|x64
+		{9959C6B4-58C2-4418-A019-A4CE9F330B03}.Release|x64.Build.0 = Release|x64
+		{7C0243D1-3138-4DF9-B451-A8E6BB069514}.Debug|x64.ActiveCfg = Debug|x64
+		{7C0243D1-3138-4DF9-B451-A8E6BB069514}.Debug|x64.Build.0 = Debug|x64
+		{7C0243D1-3138-4DF9-B451-A8E6BB069514}.Release|x64.ActiveCfg = Release|x64
+		{7C0243D1-3138-4DF9-B451-A8E6BB069514}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D1B6E8-6E3A-4212-9CD1-2B2EAE2CD348}
+	EndGlobalSection
+EndGlobal
