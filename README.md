@@ -1,7 +1,7 @@
 # Siv2048
 OpenSiv3Dで作る2048ゲーム
 
-![ゲーム画像](image.jpg)
+![ゲーム画像](https://github.com/ai2playgame/Siv2048/blob/main/image.gif)
 
 ## 参考にしたソースのライセンス表記
 
